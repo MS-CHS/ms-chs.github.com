@@ -75,7 +75,7 @@ ga_domain: ms-chs.github.io
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "一个B站UP主"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/head.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -91,12 +91,11 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
+    { title: "博客 | System Installer", href: "http://systeminstaller.github.io/" },
+    { title: "JBT-RAMOS", href: "https://space.bilibili.com/3493129957149016" },
+    { title: "CE-RAMOS官网", href: "https://ce-ramos.com" },
+    { title: "小张Cortana", href: "https://cortana.top/" },
+    { title: "XL镜像ST", href: "https://space.bilibili.com/663117668" },
+    { title: "爱费电脑的小冉吖", href: "https://space.bilibili.com/3493094118918690" },
+    { title: "SYSTEM-BSOD-ZFS", href: "https://space.bilibili.com/3493293100894309" },
   ]
