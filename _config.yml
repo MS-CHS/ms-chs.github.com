@@ -62,7 +62,7 @@ kramdown:
 disqus_username: MS-CHS
 
 # Netease settings
-netease_comment: true
+netease_comment: false
 
 # Analytics settings
 # Baidu Analytics
@@ -70,7 +70,7 @@ netease_comment: true
 
 # Google Analytics
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: ms-chs.github.io
+ga_domain: auto
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
