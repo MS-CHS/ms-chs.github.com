@@ -58,16 +58,26 @@ kramdown:
       line_numbers: true
       start_line: 1
 
-# Disqus settings
-disqus_username: MS-CHS
+# 评论系统
+# Disqus（https://disqus.com/）
+# disqus_username: qiubaiying
 
-# Netease settings
-netease_comment: false
+# Gitalk
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
+  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  repo: ms-chs.github.com    #仓库名称
+  owner: MS-CHS    #github用户名
+  admin: MS-CHS
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+
+
+# 统计
 
 # Analytics settings
 # Baidu Analytics
-# ba_track_id: [your track id]
-
+ba_track_id: b50bf2b12b5338a1845e33832976fd68
 # Google Analytics
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
 ga_domain: auto
