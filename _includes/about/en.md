@@ -1,1 +1,1 @@
-# Please use Chinese version and traslate to English.
+# Please use Chinese version and translate to English.
