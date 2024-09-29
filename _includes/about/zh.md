@@ -1,3 +1,13 @@
+# 更多功能
+**MS-CHS收集了一些优秀的开源项目并Fork，您可点击下方文字体验这些项目（如有侵权，请联系本人删除）。
+[网页里的电脑博物馆（体验旧系统）](https://ms-chs.github.io/computer-museum/)
+
+[VirtualXP（网页XP虚拟机）](https://ms-chs.github.io/VirtualXP/VirtualXP.htm)
+
+[PCJS（体验旧系统）](https://ms-chs.github.io/pcjs/)
+
+[Infinite Mac（可能无法使用）](https://ms-chs.github.io/infinite-mac/)
+
 # 关于我
 
 MS-CHS是一个B站UP主，目前主要发电脑视频，偶尔也会发模拟飞行视频和安卓手表视频。
